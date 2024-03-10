@@ -5,3 +5,4 @@
 <p> created branches and added files, and then merged to master branch</p>
 <br><strong>Author</strong> 
 <p> Kuldeep Managoli</p>
+<p> Added to remove confilts</p>
